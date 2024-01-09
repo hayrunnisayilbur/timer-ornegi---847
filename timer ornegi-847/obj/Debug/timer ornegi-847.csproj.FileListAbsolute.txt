@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\bin\Debug\timer ornegi-847.exe.config
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\bin\Debug\timer ornegi-847.exe
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\bin\Debug\timer ornegi-847.pdb
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer ornegi-847.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer ornegi-847.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer_ornegi_847.Form1.resources
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer_ornegi_847.Properties.Resources.resources
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer ornegi-847.csproj.GenerateResource.cache
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer ornegi-847.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer ornegi-847.exe
+C:\Users\User\source\repos\timer ornegi-847\timer ornegi-847\obj\Debug\timer ornegi-847.pdb
